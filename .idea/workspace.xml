@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +26,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1SVR5toJsLaDCRG8gbmwwVv0Red" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -61,5 +65,16 @@
       <updated>1571646596273</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
