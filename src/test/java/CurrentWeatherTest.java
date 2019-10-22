@@ -4,7 +4,7 @@ import org.junit.Test;
 public class CurrentWeatherTest extends TestCase {
 @Test
     public void testConnect() {
-        
+
     }
 
     public void testPrintCurrentWeatherMap() {
